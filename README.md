@@ -9,10 +9,10 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/katan-y%C3%B4seph-isobata-de-oliveira-402a50267/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/linkedin.svg" title = "Linkedin" alt="" height="30" /></a>
-<a href="https://discord.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/discord.svg" alt="" height="30" /></a>
+<a href="https://discord.com/users/816441196137414726" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/discord.svg" alt="" height="30" /></a>
 <a href="https://www.instagram.com/katan_yoseph/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/instagram.svg" alt="" height="30" /></a>
 <a href="https://tryhackme.com/p/Katan" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/tryhackme.svg" alt="" height="30" /></a>
-<a href="https://outlook.live.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/outlook.svg" alt="" height="30" /></a>
+<a href="mailto:katanyoseph@outlook.com" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/outlook.svg" alt="" height="30" /></a>
 <a href="https://www.dio.me/users/katan_isobata" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/dio.svg" alt="" height="30" /></a>
 
 <!-- TODO add in the rest of the URLs -->
