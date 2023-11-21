@@ -1,8 +1,4 @@
-## 👋 Hey everyone, I'm MishManners®™ AKA the Hackathon Queen®™ 👋
-<!--
-**MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
-
-<!-- <img src=""> this is another way you can add in images and allows you to scale them -->
+<h1 align="left">Hi 👋! My name is Katan Yôseph and I'm a Security Professional.</h1>
 
 ![mishmannersgamingroomgif](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 
