@@ -26,7 +26,7 @@
 <a href="https://docs.kernel.org/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/linux.svg" height="30" /></a> 
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/python.svg" height="30" /></a>
 <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/shell.svg" height="30" /></a>
-<a href="https://www.mysql.com/" target="blank"><img align="center" src="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands" height="30" /></a>
+<a href="https://www.mysql.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/sql.svg" height="30" /></a>
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/vscode.svg" height="30" /></a>
 
 ### I'm listening to:
