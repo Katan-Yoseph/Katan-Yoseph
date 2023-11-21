@@ -4,12 +4,11 @@
 
 👋 Hi, I'm a multi-talented personality in the tech and gaming communities. As a developer advocate 🥑, I get to share my knowledge and experience through articles, presentations, and even Twitch streams. I have written articles on technical topics, and spoken at conferences and events on the importance of collaboration, community building, and the future of work. I'm also a respected leader in the hackathon community, having won, organised, and mentored at numerous events. I'm a successful entrepreneur and founder, having co-founded several companies – including an artificial intelligence company. You'll often catch me at an event, speaking on stage, or on a live stream!
 
-<!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
 ### Find me all around the web:
 
 <p align="left">
-<a href="http://twitter.com/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/katan-y%C3%B4seph-isobata-de-oliveira-402a50267/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/linkedin.svg" title = "Linkedin" alt="" height="30" /></a>
 <a href="http://linkedin.com/in/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="http://instagram.com/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 <a href="http://twitch.tv/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitch.png" alt="" height="30" /></a>
