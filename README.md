@@ -69,54 +69,11 @@ If you haven't had a chance to check out [GitHub Skyline](https://skyline.github
 
 As for the charts 🥧, if you like my A++ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
 
-<!-- 2020 graph
-<img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700"> -->
 
-<!-- 2021 Skyline -->
-<img src="https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif" width="700">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="700">
-
-```ascii 
-          My 2022 GitHub Skyline
-          
-          ✧                ☽                  ▁
-          ✧                 ✦          ✦ ▄✦█   █ 
-     ✧ ✦ ✧                  ▃          ▅ █ █▂  █     
-✧                 ✦     ▂   █          █ █ ██ ▇█✧ ✧▂
- ▂▁▄✦▁▂▁▂▁ ▅ ▇▂▁▅      ▅█▂  █  ▁  ✧ ▂▃ █▁█ ██▂██▇▄ █
-▁█████████▇██████▇██▇█▇███▇▇█▇▆█▆▇▇███▇███▇██████████
-```
-<!--
-   
-          My 2021 GitHub Skyline          
-
-         ✦                 ✦    ▁          ☽     ✦   
- ✦                 █          ▁▄██      ✧     ✧      
- ✧                ✦█  ▁ ▇     ████    ✦ ✧            
-  ✧   ✧   ✦  ▃     █✦ █✧█▂   ▇████ ▇▅   ▃ ✧✧     ▅   
- ▃▁ ✧▂▅▂▅▂▃▅▁█ ✦▇  █▇▅█▃██▄███████▅██▅▂▄██▄▄▁ ▁▁✦█▂  
-▁██▅██████████▁▇█▆▇██████████████████████████▇██████▅
-
-```
-
-``` 
-          @mishmanners' 2020 GitHub Skyline          
-
-     ✦            ✦    ✦    ✦ ▁               ✧  ✦   
-                         ▁    █        ▃          █  
- ✧    ✦             ▇    █    █✦  ☽ ▂▄ █ ▇       ✧█  
-  ▆  ✧   ▄ ✧  ▆ ▄   █    █ ▄  █ ▂✦▄ ██▆█ █        █  
-  █▅▃▃▁ ▁█ ▃▃▅█▆█▃▃▅█▅▃ ▃█▃█▃▃█▅█▅█▆████▃█ ▃✧▅▃ ▃ █▁ 
-▁▁█████▅██▅████████████▅██████████████████▅█▁██▅█▁██▁
-
-```
---!>
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Katan-Yoseph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Katan-Yoseph&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+</div>
 
 ### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/Katan-Yoseph/Profile/blob/main/.github/workflows/snake.svg" alt="Snake animation" width="200%"/>
