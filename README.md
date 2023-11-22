@@ -34,17 +34,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### Pins:
-[![An image of @mishmanners's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mishmanners)](https://holopin.io/@mishmanners)
-
-<!--
-- [Twitter](http://twitter.com/MishManners) :bird:
-- [Instagram](http://instagram.com/mishmanners) 📸
-- [Twitch](http://twitch.tv/MishManners) 📺 
-- [LinkedIn](http://linkedin.com/in/mishmanners) 👩‍💻
-- [YouTube](http://youtube.com/c/MishManners) 📽 
-- [MishManners®™ website](http://mishmanners.com) 🌐 
-- [Hackathon Queen®™ blog](https://hackathongoddess.wordpress.com/) 🌐
--->
+<img src="https://tryhackme-badges.s3.amazonaws.com/Katan.png" alt="TryHackMe">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="49f2361a-0dc2-4ade-95fe-f12a335d3d5b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/author/mishmanners/) :books:
@@ -65,15 +56,9 @@ I've founded a few companies in the past :zap: I love playing video games and yo
 
 ## GitHub Stats
 
-If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. It's a 3D visualisation of your contribution graph. You can interact with your 3D graph, make a video, download the STL file, add annotations, and even view it in Virtual Reality - you'll need a phone and a Google Cardboard to do this, or you can break out the fancy VR headsets. You can also view the ASCII art, and if you know the code combination, you can view the Konami code (コナミコマンド).
-
-As for the charts 🥧, if you like my A++ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Katan-Yoseph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Katan-Yoseph&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
 </div>
 
-### Watch my contribution graph get eaten by the snake 🐍
 <img src="https://github.com/Katan-Yoseph/Profile/blob/main/.github/workflows/snake.svg" alt="Snake animation" width="200%"/>
