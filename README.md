@@ -29,26 +29,9 @@
 <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/sql.svg" height="40" /></a>
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/vscode.svg" height="40" /></a>
 
-### I'm listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 ### Pins:
-<img src="https://tryhackme-badges.s3.amazonaws.com/Katan.png" alt="TryHackMe">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="49f2361a-0dc2-4ade-95fe-f12a335d3d5b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-### Watch, read, and catch up on content:
-- [GitHub blog articles](https://github.blog/author/mishmanners/) :books:
-- [Esports articles on Upcomer](https://www.upcomer.com/author/michelle-mannering/) 🕹️ formely Daily Esports
-- [Gaming articles on Gamepur](https://doublexp.com/author/michelle-mannering) 🎮
-- [Tech reviews on TechAU](https://techau.com.au/author/mmannering/) 🖥️
-- [Blog posts on DEV](https://dev.to/mishmanners) ✍️
-- [Blog posts on Codenewbies](https://community.codenewbie.org/mishmanners) 💽
-- [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) 🎥
-- [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) 📣
-- [Buy merchandise](https://merch.streamelements.com/mishmanners/) 🛒
-- [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) 🛍️
-- [Sessionize Profile](https://sessionize.com/mishmanners/)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Katan.png" alt="TryHackMe" height="60">
+<img src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/Images/Badge/isc2-candidate.png" height="100">
 
 <img align="right" width="140" height="140" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/Images/hydra-we-bhack.gif"></a>
 ### Some Fun Facts about me:
