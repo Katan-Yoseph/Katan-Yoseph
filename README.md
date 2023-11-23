@@ -2,11 +2,11 @@
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/katan-y%C3%B4seph-isobata-de-oliveira-402a40267/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/linkedin.svg" title = "Linkedin" alt="" height="40" /></a>
-<a href="https://discord.com/users/816441196137414726" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/discord.svg" alt="" height="40" /></a>
-<a href="https://www.instagram.com/katan_yoseph/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/instagram.svg" alt="" height="40" /></a>
-<a href="https://tryhackme.com/p/Katan" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/tryhackme.svg" alt="" height="40" /></a>
-<a href="https://www.dio.me/users/katan_isobata" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/dio.svg" alt="" height="40" /></a>
+<a href="https://www.linkedin.com/in/katan-y%C3%B4seph-isobata-de-oliveira-402a40267/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/linkedin.svg" title = "Linkedin" alt="" height="25" /></a>
+<a href="https://discord.com/users/816441196137414726" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/discord.svg" alt="" height="25" /></a>
+<a href="https://www.instagram.com/katan_yoseph/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/instagram.svg" alt="" height="25" /></a>
+<a href="https://tryhackme.com/p/Katan" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/tryhackme.svg" alt="" height="25" /></a>
+<a href="https://www.dio.me/users/katan_isobata" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/dio.svg" alt="" height="25" /></a>
 </p>
                                                                                                                                                                                                      
   <img src="https://github-readme-stats.vercel.app/api?username=Katan-Yoseph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <img src="https://streak-stats.demolab.com?user=Katan-Yoseph&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
