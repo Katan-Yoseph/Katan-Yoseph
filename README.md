@@ -2,7 +2,7 @@
 
 ![Katan-Yoseph](https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/Images/Wallpaper/cyber-security-1805632_1280.png)
 
-👋 Hi, I'm a multi-talented personality in the tech and gaming communities. As a developer advocate 🥑, I get to share my knowledge and experience through articles, presentations, and even Twitch streams. I have written articles on technical topics, and spoken at conferences and events on the importance of collaboration, community building, and the future of work. I'm also a respected leader in the hackathon community, having won, organised, and mentored at numerous events. I'm a successful entrepreneur and founder, having co-founded several companies – including an artificial intelligence company. You'll often catch me at an event, speaking on stage, or on a live stream!
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 
 ### Social Media:
@@ -35,7 +35,7 @@
 
 <img align="right" width="140" height="140" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/Images/hydra-we-bhack.gif"></a>
 ### Some Fun Facts about me:
-I've founded a few companies in the past :zap: I love playing video games and you'll find me playing games on my [Twitch Channel](http://twitch.tv/MishManners) and live coding! I'm super into sports, including lots of outdoor adventures like hiking, snowboarding, and wakeboarding. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my Twitch chat during a live stream. Or DM me on Instagram or Twitter.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 ## GitHub Stats
 
