@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Katan Yôseph and I'm a Security Professional.</h1>
+<h1 align="left">Hi 👋! My name is Katan Yôseph.</h1>
 
 
 <p align="left">
@@ -16,8 +16,9 @@
 ### About me:
 <img align="right" width="140" height="140" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/Images/hydra-we-bhack.gif"></a>
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Sou um jovem apaixonado pelo campo da Segurança Cibernética, buscando constantemente aprofundar-me e expandir meu conhecimento nesse fascinante domínio. Minha jornada teve início com a utilização de sistemas operacionais Linux, como Arch, Ubuntu e Mint, onde mergulhei nos estudos desses sistemas, explorando terminais e desenvolvendo códigos em batch e Shell script.
 
+Movido pela minha curiosidade inata, dei início aos estudos com a ferramenta NMAP, explorando suas funcionalidades e compreendendo seu funcionamento. Além disso, tenho uma paixão por absorver novos conhecimentos e experiências. No meu tempo livre, concentro-me na leitura de livros técnicos e de psicologia voltada para o crescimento mental, buscando aprimorar constantemente minhas habilidades
 ### Skills:
 <a href="https://www.arduino.cc/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/arduino.svg" height="40" /></a>
 <a href="https://www.gnu.org/software/bash/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/bash.svg" height="40" /></a> 
