@@ -32,7 +32,10 @@ Guided by my innate curiosity, I started my studies with the NMAP tool, explorin
 <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/sql.svg" height="40" /></a>
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/vscode.svg" height="40" /></a>
 
-### Pins:
-<img src="https://tryhackme-badges.s3.amazonaws.com/Katan.png" alt="TryHackMe" height="60">
-<img src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/Images/Badge/isc2-candidate.png" height="100">
+
+### Badges:
+<img src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/Images/Badge/isc2-candidate.png" height="90"> <img src="https://desecsecurity.com/academy/uploads/badges/skill_pentest_fundamentals_pro.png" height="110">
+</p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Katan.png" alt="TryHackMe" height="60"> 
+
 
