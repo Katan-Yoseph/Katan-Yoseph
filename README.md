@@ -8,10 +8,7 @@
 <a href="" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/tryhackme.svg" alt="" height="25" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/dio.svg" alt="" height="25" /></a>
 </p></p>
-                                                                                                                                                                                                     
-  <img src="https://github-readme-stats.vercel.app/api?username=Katan-Yoseph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <img src="https://streak-stats.demolab.com?user=Katan-Yoseph&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-</p>
+
 
 ### About me:
 <img align="right" width="140" height="140" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/Images/hydra-we-bhack.gif"></a>
