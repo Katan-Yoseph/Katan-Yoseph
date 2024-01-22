@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Katan Yôseph.</h1>
+<h1 align="left">Hi 👋! My name is Katan Yoseph.</h1>
 
 
 <p align="left">
