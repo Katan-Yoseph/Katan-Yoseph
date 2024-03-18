@@ -33,10 +33,3 @@ Guided by my innate curiosity, I started my studies with the NMAP tool, explorin
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/vscode.svg" height="40" /></a>
 
 
-### Badges:
-<p><img src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/Images/Badge/isc2-candidate.png" height="90"> <br><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="85"></p>
-<p><img src="https://desecsecurity.com/academy/uploads/badges/skill_pentest_fundamentals_pro.png" height="120"><img src="https://desecsecurity.com/academy/uploads/badges/network_analyst_pro.png" height="120"></p>
-</p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Katan.png" alt="TryHackMe" height="60"> 
-
-
