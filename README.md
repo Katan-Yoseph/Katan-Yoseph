@@ -32,4 +32,7 @@ Guided by my innate curiosity, I started my studies with the NMAP tool, explorin
 <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/sql.svg" height="40" /></a>
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/vscode.svg" height="40" /></a>
 
+### Certifications:
+
+
 
