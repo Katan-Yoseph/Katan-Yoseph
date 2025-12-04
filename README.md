@@ -28,6 +28,7 @@ Guided by my innate curiosity, I started my studies with the NMAP tool, explorin
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/js.svg" height="40" /></a> 
 <a href="https://docs.kernel.org/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/linux.svg" height="40" /></a> 
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/python.svg" height="40" /></a>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3299747" style='border:none;'></iframe>
 <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/shell.svg" height="40" /></a>
 <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/sql.svg" height="40" /></a>
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/vscode.svg" height="40" /></a>
