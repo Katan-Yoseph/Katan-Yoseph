@@ -33,7 +33,7 @@ Guided by my innate curiosity, I started my studies with the NMAP tool, explorin
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/vscode.svg" height="40" /></a>
 
 ## Badges
-[![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3299747)
+(https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3299747)
 
 ### Certifications:
 
