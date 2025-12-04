@@ -4,8 +4,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/katan-yoseph/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/linkedin.svg" title = "Linkedin" alt="" height="25" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/discord.svg" alt="" height="25" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/instagram.svg" alt="" height="25" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/tryhackme.svg" alt="" height="25" /></a>
+<a href="https://www.instagram.com/katan_yoseph/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/instagram.svg" alt="" height="25" /></a>
+<a href="https://tryhackme.com/p/Kyion" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/tryhackme.svg" alt="" height="25" /></a>
 </p></p>
 
 
