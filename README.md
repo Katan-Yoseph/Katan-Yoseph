@@ -32,11 +32,11 @@ Guided by my innate curiosity, I started my studies with the NMAP tool, explorin
 <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/sql.svg" height="40" /></a>
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/vscode.svg" height="40" /></a>
 
-## Badges
-<img align="center" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3299747"/>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3299747" style='border:none;'></iframe>
-
 ### Certifications:
+<a><img align="center" src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="70"/><a/>
+<a><img align="center" src="https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" height="70"/><a/>
+
+
 
 
 
