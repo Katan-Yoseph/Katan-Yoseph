@@ -6,7 +6,6 @@
 <a href="" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/discord.svg" alt="" height="25" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/instagram.svg" alt="" height="25" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/tryhackme.svg" alt="" height="25" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Social/dio.svg" alt="" height="25" /></a>
 </p></p>
 
 
