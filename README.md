@@ -34,6 +34,7 @@ Guided by my innate curiosity, I started my studies with the NMAP tool, explorin
 
 ## Badges
 <img align="center" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3299747"/>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3299747" style='border:none;'></iframe>
 
 ### Certifications:
 
