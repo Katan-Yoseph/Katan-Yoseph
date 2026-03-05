@@ -12,9 +12,9 @@
 ### About me:
 <img align="right" width="140" height="140" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/Images/hydra-we-bhack.gif"></a>
 
-​I'm a young enthusiast passionate about the field of Cybersecurity, constantly seeking to deepen and expand my knowledge in this fascinating domain. My journey began with the use of Linux operating systems such as Arch, Ubuntu, and Mint, where I delved into studying these systems, exploring terminals, and developing batch and Shell script codes.
+​I'm an IT professional passionate about the field of Cybersecurity, constantly seeking to deepen and expand my knowledge in this fascinating domain. My journey began with the use of Linux operating systems such as Arch, Ubuntu, and Mint, where I delved into studying these systems, exploring terminals, and developing batch and Shell script codes. 
 
-Guided by my innate curiosity, I started my studies with the NMAP tool, exploring its functionalities and understanding its operations. Additionally, I have a passion for absorbing new knowledge and experiences. In my free time, I focus on reading technical books and psychology literature focused on mental growth, aiming to constantly enhance my skills.
+I'm Graduated in Cyber defense management, tecnitian in Analysis and system development and certified Security+. Guided by my innate curiosity, I started my studies with the NMAP tool, exploring its functionalities and understanding its operations. Additionally, I have a passion for absorbing new knowledge and experiences. In my free time, I focus on reading technical books and psychology literature focused on mental growth, aiming to constantly enhance my skills.
 
 ### Skills:
 <a href="https://www.arduino.cc/" target="blank"><img align="center" src="https://github.com/Katan-Yoseph/Katan-Yoseph/blob/main/socials/Skills/arduino.svg" height="40" /></a>
